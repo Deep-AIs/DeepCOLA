@@ -21,4 +21,4 @@ conda install -c conda-forge keras
 
 # Dataset
 
-The [UK-Dale](https://www.anaconda.com/) electricity consumption dataset at the appliace-level is used for the experiments. 
+The [UK-Dale](https://www.anaconda.com/) electricity consumption dataset is used for the experiments. This dataset contains consumption at appliance level.
