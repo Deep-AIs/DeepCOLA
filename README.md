@@ -7,13 +7,9 @@ The DeepCOLA algorithm requires following libraries in order to run and produce 
 
 * Python 3
 * Numpy
+* SciPy
 * Matplotlib
 * Tensorflow
 * Keras
 
-The easiast way to install above libraries is by using Anaconda from the following link. 
-
-[GitHub](http://github.com)
-
-
-The Anaconda 
+The easiast way to install above libraries is by using Anaconda from the [Link](https://www.anaconda.com/). The Anaconda tool 
