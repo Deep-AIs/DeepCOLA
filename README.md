@@ -13,3 +13,7 @@ The DeepCOLA algorithm requires following libraries in order to run and produce 
 * Keras
 
 The DeepCOLA algorithm utlizes TensorFlow as backend. The easiast way to install above libraries is by using Anaconda from the [Link](https://www.anaconda.com/). The Anaconda tool provides built-in support for Python 3, Numpy, SciPy and Matplotlib. However, TensorFlow and Keras can be installed using the Conda comannds. 
+
+```
+conda install -c conda-forge keras 
+```
