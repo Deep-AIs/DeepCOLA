@@ -21,4 +21,4 @@ conda install -c conda-forge keras
 
 # Dataset
 
-The [UK-Dale](https://www.anaconda.com/) electricity consumption dataset is used for the experiments. This dataset contains consumption at appliance level.
+The [UK-Dale](http://jack-kelly.com/data/) electricity consumption dataset is used for the experiments. This dataset contains consumption at appliance level. A dataset file is provided with the code which contains consumption for one day. The origianl UK-Dale dataset provides individual files for each appliance for various time duration. However, we have applied data preprocessing and combined the consumption from appliances into one file.
