@@ -19,6 +19,13 @@ The DeepCOLA algorithm utlizes TensorFlow as backend. The easiast way to install
 conda install -c conda-forge keras 
 ```
 
+Another option to run the code without Anaconda is by installing all the libraries individually using Pip3 as the code requires Python 3.
+
+```
+Numpy
+sudo pip3 install numpy
+```
+
 # Dataset
 
 The [UK-Dale](http://jack-kelly.com/data/) electricity consumption dataset is used for the experiments. This dataset contains consumption at appliance level. A dataset file is provided with the code which contains consumption for one day. The origianl UK-Dale dataset provides individual files for each appliance for various time duration. However, we have applied data preprocessing and combined the consumption from appliances into one file.
