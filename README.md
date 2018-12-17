@@ -5,8 +5,8 @@ This code is a Python implementation of DeepCOLA (Deep COmpetitive Learning Algo
 # How to run the code
 The DeepCOLA algorithm requires following libraries in order to run and produce clusters.
 
-Python 3
-Numpy
-Tensorflow
-Keras
+* Python 3
+* Numpy
+* Tensorflow
+* Keras
 
