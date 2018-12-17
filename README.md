@@ -32,6 +32,8 @@ Matplotlib
 sudo pip3 install matplotlib
 ```
 
+Please refer to these links [TensorFlow](https://www.tensorflow.org/install/) and [Keras](https://keras.io/) to install them.
+
 # Dataset
 
 The [UK-Dale](http://jack-kelly.com/data/) electricity consumption dataset is used for the experiments. This dataset contains consumption at appliance level. A dataset file is provided with the code which contains consumption for one day. The origianl UK-Dale dataset provides individual files for each appliance for various time duration. However, we have applied data preprocessing and combined the consumption from appliances into one file.
