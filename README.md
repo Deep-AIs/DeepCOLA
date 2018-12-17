@@ -24,6 +24,12 @@ Another option to run the code without Anaconda is by installing all the librari
 ```
 Numpy
 sudo pip3 install numpy
+
+Scipy
+sudo pip3 install scipy
+
+Matplotlib
+sudo pip3 install matplotlib
 ```
 
 # Dataset
